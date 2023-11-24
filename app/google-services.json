@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007181249611",
+    "project_id": "symlib-fa553",
+    "storage_bucket": "symlib-fa553.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007181249611:android:50cde275c0e6f443cca1ce",
+        "android_client_info": {
+          "package_name": "br.senai.sp.jandira.symlib"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIkQoDmBa3F3NMFEyCNAXenWpuQO2orbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SymLib</string>
+    <string name="placeholder_email">Insira seu email</string>
+    <string name="placeholder_password">Insira sua senha</string>
+    <string name="register_title">Cadastrar Perfil</string>
+    <string name="register_button">Cadastrar</string>
+</resources>
